@@ -1,4 +1,5 @@
-Food Ordering Service
+#Food Ordering Service
+
 A user-friendly application that allows customers to browse a restaurant's menu, add items to a cart, and generate a detailed bill. This project is designed to streamline the ordering process and enhance the customer experience.
 
 Features
